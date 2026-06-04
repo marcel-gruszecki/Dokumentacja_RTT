@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["M"],"fn":["aggregate_tasks","baseline_cmax","build_spdp_schedule","cmax_of_split","duleung","greedy_spdp","run_all","run_one","splitoff"],"struct":["SchedulingResult","Segment","TaskInfo"]};
