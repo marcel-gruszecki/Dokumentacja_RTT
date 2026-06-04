@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["PANEL","TopPanelAction"],"fn":["show_top_panel"]};

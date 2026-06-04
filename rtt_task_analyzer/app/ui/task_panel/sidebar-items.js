@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":["BLUES","WINDOW_US"],"fn":["show_central_panel_task","show_task_left_panel","show_task_panel","show_task_right_panel","task_color"]};
