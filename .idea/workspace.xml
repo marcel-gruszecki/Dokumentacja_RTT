@@ -4,84 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffc670c8-9024-4bdf-b86a-ae489aaf0f54" name="Changes" comment="Init">
-      <change beforePath="$PROJECT_DIR$/Docs/all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/sidebar-items.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/struct.MyEguiApp.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/tracer/enum.ConnectionStatus.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/tracer/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/tracer/sidebar-items.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/tracer/struct.TracerHandle.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/analysis_panel/enum.ALGO.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/analysis_panel/enum.AnalysisAction.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/analysis_panel/fn.format_duration_ns.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/analysis_panel/fn.name_color.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/analysis_panel/fn.show_analysis_panel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/analysis_panel/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/analysis_panel/sidebar-items.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/analysis_panel/struct.AnalysisPanel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/sidebar-items.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/task_panel/constant.BLUES.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/task_panel/constant.WINDOW_US.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/task_panel/fn.show_central_panel_task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/task_panel/fn.show_task_left_panel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/task_panel/fn.show_task_panel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/task_panel/fn.show_task_right_panel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/task_panel/fn.task_color.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/task_panel/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/task_panel/sidebar-items.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/top_panel/enum.PANEL.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/top_panel/enum.TopPanelAction.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/top_panel/fn.show_top_panel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/top_panel/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/app/ui/top_panel/sidebar-items.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/heuristics/constant.M.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/heuristics/fn.aggregate_tasks.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/heuristics/fn.baseline_cmax.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/heuristics/fn.build_spdp_schedule.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/heuristics/fn.cmax_of_split.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/heuristics/fn.duleung.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/heuristics/fn.greedy_spdp.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/heuristics/fn.run_all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/heuristics/fn.run_one.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/heuristics/fn.splitoff.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/heuristics/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/heuristics/sidebar-items.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/heuristics/struct.SchedulingResult.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/heuristics/struct.Segment.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/heuristics/struct.TaskInfo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/protocol/constant.EVT_IN.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/protocol/constant.EVT_OUT.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/protocol/constant.MAGIC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/protocol/constant.PKT_LEN.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/protocol/fn.parse_packet.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/protocol/fn.task_name.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/protocol/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/protocol/sidebar-items.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/protocol/struct.FrameReader.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/protocol/struct.RawPacket.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/scheduler/enum.EventKind.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/scheduler/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/scheduler/sidebar-items.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/scheduler/struct.Accumulator.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/scheduler/struct.TaskDatabase.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/scheduler/struct.TaskEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/scheduler/struct.TaskExecution.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/scheduler/struct.TaskScheduleData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/session/constant.RTT_CHANNEL.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/session/constant.RTT_SCAN_END.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/session/constant.RTT_SCAN_START.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/session/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/session/sidebar-items.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/session/struct.TracerSession.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/communication/sidebar-items.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/fn.main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docs/sidebar-items.js" beforeDir="false" />
-    </list>
+    <list default="true" id="ffc670c8-9024-4bdf-b86a-ae489aaf0f54" name="Changes" comment="Init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780553146109</updated>
-      <workItem from="1780553147121" duration="1682000" />
+      <workItem from="1780553147121" duration="1784000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -253,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780554655833</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Init">
+      <option name="closed" value="true" />
+      <created>1780554854794</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1780554854794</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
