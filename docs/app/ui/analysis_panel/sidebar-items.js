@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["ALGO","AnalysisAction"],"fn":["format_duration_ns","name_color","show_analysis_panel"],"struct":["AnalysisPanel"]};

@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":["analysis_panel","task_panel","top_panel"]};
