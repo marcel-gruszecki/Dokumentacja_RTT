@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":["EVT_IN","EVT_OUT","MAGIC","PKT_LEN"],"fn":["parse_packet","task_name"],"struct":["FrameReader","RawPacket"]};

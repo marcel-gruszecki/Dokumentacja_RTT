@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":["RTT_CHANNEL","RTT_SCAN_END","RTT_SCAN_START"],"struct":["TracerSession"]};
