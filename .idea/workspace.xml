@@ -4,7 +4,185 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffc670c8-9024-4bdf-b86a-ae489aaf0f54" name="Changes" comment="Init" />
+    <list default="true" id="ffc670c8-9024-4bdf-b86a-ae489aaf0f54" name="Changes" comment="Init">
+      <change beforePath="$PROJECT_DIR$/docs/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/crates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/help.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/sidebar-items.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/struct.MyEguiApp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/tracer/enum.ConnectionStatus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/tracer/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/tracer/sidebar-items.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/tracer/struct.TracerHandle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/analysis_panel/enum.ALGO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/analysis_panel/enum.AnalysisAction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/analysis_panel/fn.format_duration_ns.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/analysis_panel/fn.name_color.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/analysis_panel/fn.show_analysis_panel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/analysis_panel/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/analysis_panel/sidebar-items.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/analysis_panel/struct.AnalysisPanel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/sidebar-items.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/task_panel/constant.BLUES.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/task_panel/constant.WINDOW_US.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/task_panel/fn.show_central_panel_task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/task_panel/fn.show_task_left_panel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/task_panel/fn.show_task_panel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/task_panel/fn.show_task_right_panel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/task_panel/fn.task_color.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/task_panel/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/task_panel/sidebar-items.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/top_panel/enum.PANEL.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/top_panel/enum.TopPanelAction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/top_panel/fn.show_top_panel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/top_panel/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/app/ui/top_panel/sidebar-items.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/heuristics/constant.M.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/heuristics/fn.aggregate_tasks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/heuristics/fn.baseline_cmax.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/heuristics/fn.build_spdp_schedule.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/heuristics/fn.cmax_of_split.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/heuristics/fn.duleung.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/heuristics/fn.greedy_spdp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/heuristics/fn.run_all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/heuristics/fn.run_one.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/heuristics/fn.splitoff.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/heuristics/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/heuristics/sidebar-items.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/heuristics/struct.SchedulingResult.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/heuristics/struct.Segment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/heuristics/struct.TaskInfo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/protocol/constant.EVT_IN.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/protocol/constant.EVT_OUT.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/protocol/constant.MAGIC.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/protocol/constant.PKT_LEN.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/protocol/fn.parse_packet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/protocol/fn.task_name.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/protocol/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/protocol/sidebar-items.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/protocol/struct.FrameReader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/protocol/struct.RawPacket.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/scheduler/enum.EventKind.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/scheduler/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/scheduler/sidebar-items.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/scheduler/struct.Accumulator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/scheduler/struct.TaskDatabase.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/scheduler/struct.TaskEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/scheduler/struct.TaskExecution.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/scheduler/struct.TaskScheduleData.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/session/constant.RTT_CHANNEL.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/session/constant.RTT_SCAN_END.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/session/constant.RTT_SCAN_START.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/session/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/session/sidebar-items.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/session/struct.TracerSession.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/communication/sidebar-items.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/fn.main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rtt_task_analyzer/sidebar-items.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/04f5bfdadead.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/08cf9730f034.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/0996a09081b2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/0daa6d479106.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/17bb296294a5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/18657911eb75.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/1b53d9fc93d3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/299e63fb3077.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/2e1e1a81282e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/2ec4c847a66e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/33cceafd4ecb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/399c17d2b5ea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/3bd360f71c90.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/3f6f217d3c4f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/45532e7a3ab1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/646fc8fa5ccb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/67331a5a3467.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/71ae5a071a9f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/72ab152041b7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/750220e2269f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/764d214076d7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/7a22afa8399e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/7b0dee0bf3ae.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/alias/a762150c532c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/crateNames/7040beee8478.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/desc/901e719edf89.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/entry/896b81d862b0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/function/c24c947df963.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/generic_inverted_index/cc2f992550ad.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/name/afa812b29c97.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/normalizedName/4a333574179d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/path/f60c3eb26db8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/root.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.index/type/78fa3515928b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/settings.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src-files.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/rtt_task_analyzer/app.rs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/rtt_task_analyzer/app/tracer.rs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/rtt_task_analyzer/app/ui.rs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/rtt_task_analyzer/app/ui/analysis_panel.rs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/rtt_task_analyzer/app/ui/task_panel.rs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/rtt_task_analyzer/app/ui/top_panel.rs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/rtt_task_analyzer/communication/heuristics.rs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/rtt_task_analyzer/communication/mod.rs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/rtt_task_analyzer/communication/protocol.rs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/rtt_task_analyzer/communication/scheduler.rs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/rtt_task_analyzer/communication/session.rs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/rtt_task_analyzer/main.rs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/COPYRIGHT-7fb11f4e.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/FiraMono-Medium-86f75c8c.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/FiraMono-Regular-87c26294.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/FiraSans-Italic-81dc35de.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/FiraSans-LICENSE-05ab6dbd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/FiraSans-Medium-e1aa3f0a.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/FiraSans-MediumItalic-ccf7e434.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/FiraSans-Regular-0fe48ade.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/LICENSE-APACHE-a60eea81.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/LICENSE-MIT-23f18e03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/NanumBarunGothic-13b3dcba.ttf.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/NanumBarunGothic-LICENSE-a37d393b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/SourceCodePro-It-fc8b9304.ttf.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/SourceCodePro-LICENSE-67f54ca7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/SourceCodePro-Regular-8badfe75.ttf.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/SourceCodePro-Semibold-aa29a496.ttf.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/SourceSerif4-Bold-6d4fd4c0.ttf.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/SourceSerif4-It-ca3b17ed.ttf.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/SourceSerif4-LICENSE-a2cfd9d5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/SourceSerif4-Regular-6b053e98.ttf.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/SourceSerif4-Semibold-457a13ac.ttf.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/favicon-044be391.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/favicon-32x32-eab170b8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/main-ce535bd0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/normalize-9960930a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/noscript-263c88ec.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/rust-logo-9a9549ea.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/rustdoc-ca0dd0c4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/scrape-examples-2bbcccac.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/search-d69d8955.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/settings-c38705f0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/src-script-813739b1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/storage-e2aeef58.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static.files/stringdex-c3e638e9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/trait.impl/core/clone/trait.Clone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/trait.impl/core/cmp/trait.Eq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/trait.impl/core/cmp/trait.PartialEq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/trait.impl/core/default/trait.Default.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/trait.impl/core/fmt/trait.Debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/trait.impl/core/marker/trait.Copy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/trait.impl/core/marker/trait.Freeze.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/trait.impl/core/marker/trait.Send.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/trait.impl/core/marker/trait.StructuralPartialEq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/trait.impl/core/marker/trait.Sync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/trait.impl/core/marker/trait.Unpin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/trait.impl/core/marker/trait.UnsafeUnpin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/trait.impl/core/ops/drop/trait.Drop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/trait.impl/core/panic/unwind_safe/trait.RefUnwindSafe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/trait.impl/core/panic/unwind_safe/trait.UnwindSafe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/trait.impl/eframe/epi/trait.App.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +255,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780553146109</updated>
-      <workItem from="1780553147121" duration="603000" />
+      <workItem from="1780553147121" duration="1297000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -87,7 +265,39 @@
       <option name="project" value="LOCAL" />
       <updated>1780553324133</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Init">
+      <option name="closed" value="true" />
+      <created>1780553817695</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780553817695</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Init">
+      <option name="closed" value="true" />
+      <created>1780553862862</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780553862862</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Init">
+      <option name="closed" value="true" />
+      <created>1780553948270</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780553948270</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Init">
+      <option name="closed" value="true" />
+      <created>1780554129426</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1780554129426</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
