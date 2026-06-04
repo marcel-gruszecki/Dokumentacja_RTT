@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["EventKind"],"struct":["Accumulator","TaskDatabase","TaskEvent","TaskExecution","TaskScheduleData"]};
